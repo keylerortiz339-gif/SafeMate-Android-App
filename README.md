@@ -1,2 +1,7 @@
 # SafeMate-Android-App
-Android security app built with Kotlin and Jetpack Compose. Features emergency panic button with automatic SMS alerts, contact management and alert history.
+# 🛡️ SafeMate – Android Emergency Security App
+
+![Kotlin](https://img.shields.io/badge/Kotlin-Android-blue)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack-Compose-green)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+
